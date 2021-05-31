@@ -1,0 +1,3 @@
+PersonDetails{name='Madhu', address='Hitechcity', city='Hyderabad', state='Telangana', zip='57235', phoneNo='8247473242', email='madhu@gmail'}
+PersonDetails{name='Vikas', address='Yousufguda', city='Vijaywada', state='Andhra', zip='54545', phoneNo='9502162168', email='vikas@gmail'}
+PersonDetails{name='Rufus', address='Ecil', city='Vizag', state='Andhra', zip='52212', phoneNo='9700593669', email='rufus@gmail'}
